@@ -1,1 +1,5 @@
-{ 'auth': true, 'email': 'fake@mail.com' , 'empresa': 'Fake Empresa'}
+{ 
+  "auth": true, 
+  "email": "fake@mail.com", 
+  "empresa": "Fake Empresa"
+}
